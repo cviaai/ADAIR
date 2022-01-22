@@ -16,12 +16,14 @@ Namely, the Denoiser learns the proper frequency decomposition of the acquired i
 If you use this package in your publications or in other work, please cite it as follows:
 
 ```
-@misc{ADAIR,
-  author = {Vito Leli and Viktor Shipitsin and Oleg Rogov and Aleksandr Sarachakov and Dmitry V. Dylov}
-  title = {Adaptive Denoising and Alignment Agents for Infrared Imaging},
-  year = {2021},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/cviaai/ADAIR/}}
+@ARTICLE{ADAIR,  
+author={Leli, Vito M. and Shipitsin, Viktor and Rogov, Oleg Y. and Sarachakov, Aleksandr and Dylov, Dmitry V.},  
+journal={IEEE Control Systems Letters},   
+title={Adaptive Denoising and Alignment Agents for Infrared Imaging},   
+year={2022},  
+volume={6},  
+number={},  
+pages={1586-1591},  
+doi={10.1109/LCSYS.2021.3126212}
 }
 ```
